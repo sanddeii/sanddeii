@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on new projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything
+- 📫 How to reach me: [Twitter](https://twitter.com/k2s2023free), [Page](http://thearticleszone.cyou/keep2share-premium-account/)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **sanddeii/sanddeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
